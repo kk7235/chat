@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "579931776825",
+    "firebase_url": "https://chat-a8d21.firebaseio.com",
+    "project_id": "chat-a8d21",
+    "storage_bucket": "chat-a8d21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579931776825:android:f805141d3ae8b1b8",
+        "android_client_info": {
+          "package_name": "com.example.kk.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579931776825-fmv0aj4l7kk21nkrvebb89nhvun7jpl8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kk.chat",
+            "certificate_hash": "8f49ebc7b3864ef400dccfd170df7feff635997f"
+          }
+        },
+        {
+          "client_id": "579931776825-23nqahb26bl3t55vleinj3ot4r1fpj8g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kk.chat",
+            "certificate_hash": "ce4032043d9aa5be8828feb381b9c3723a6e93f1"
+          }
+        },
+        {
+          "client_id": "579931776825-58ub35qlqr22f29bb85v6dq593po4ct6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDBLlTVFhHIWohVF6yddEBpJY2JoATKIY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579931776825-58ub35qlqr22f29bb85v6dq593po4ct6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
